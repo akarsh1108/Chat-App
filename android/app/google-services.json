@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299204099571",
+    "project_id": "chatting-b17e5",
+    "storage_bucket": "chatting-b17e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299204099571:android:554be99b23db9a9da36686",
+        "android_client_info": {
+          "package_name": "co.akarsh.chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299204099571-k17hguhs9v4p7m7jphk7ve4jegu511n4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8uIQ_08u69-1fTRVH7J5zj27xb1nRHZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299204099571-k17hguhs9v4p7m7jphk7ve4jegu511n4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
